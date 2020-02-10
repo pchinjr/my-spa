@@ -1,2 +1,0 @@
-# my-spa
-Begin app
